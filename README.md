@@ -8,7 +8,8 @@ Develop a Database to analyze & visualize hotel booking data using Power BI to p
 
 ## Dashboard 
 
-![image](https://user-images.githubusercontent.com/125534171/221400421-3a96101e-44b6-40f6-9f75-128628513f06.png)
+<img width="1257" height="705" alt="image" src="https://github.com/user-attachments/assets/057330d7-fb92-489e-b3a2-5a36c77bed6d" />
+
 
 ## Knowledge gain from this project
 
